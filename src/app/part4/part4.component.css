@@ -1,0 +1,55 @@
+#Part4 {
+  padding-top: 46.98px;
+  background:url(../../assets/images/bgp4.png);
+  background-repeat: no-repeat;
+  background-size:614px 522px;
+  background-position: right;
+}
+h1{
+  padding-top: 91.06px;
+  padding-left: 128px;
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+h2{
+  padding-bottom:93px;
+  padding-left: 255px;
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 58px;
+  letter-spacing: 0.01em;
+}
+h4{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-weight: normal;
+  padding-left: 300px;
+  font-size: 25px;
+  line-height: 58px;
+  letter-spacing: 0.01em;
+}
+h5{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 58px;
+  letter-spacing: 0.01em;
+  padding-bottom: 76px;
+}
+.fas {
+  padding-right: 37.17px;
+  padding-left: 129.5px;
+    color: #62D7A4 !important;
+}
+.fab {
+  padding-right: 37.17px;
+  padding-left: 129.5px;
+    color: #62D7A4 !important;
+}

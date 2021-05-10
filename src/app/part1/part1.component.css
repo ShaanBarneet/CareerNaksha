@@ -1,0 +1,100 @@
+/* You can add global styles to this file, and also import other style files */
+#Part1 {
+
+  background:url(../../assets/images/bg2.png), linear-gradient(to left, #E8F4FF, #E8F4FF);
+  background-repeat: no-repeat;
+  background-size:786.19px 549.4px;
+  background-position: right;
+}
+h1{
+  padding-left: 82px;
+  padding-top: 191.26px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 50px;
+}
+
+h2{
+  padding-left: 113px;
+  padding-top: 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+h3{
+  padding-left: 177px;
+
+  font-family: 'Poppins', sans-serif;
+  font-weight: bolder;
+  font-size: 18px;
+}
+h4{
+  padding-left: 182px;
+
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+}
+.perc{
+  padding-right: 20px;
+
+}
+.dol{
+  padding-right: 40px;
+}
+.btn1 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #62D7A4;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: #ffffff;
+  color: #62D7A4;
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+  text-decoration: none;
+}
+
+.btn2 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #62D7A4;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #62D7A4 2px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #62D7A4;
+  color: #ffffff;
+  background-image: -webkit-linear-gradient(top, #62D7A4, #62D7A4);
+  background-image: -moz-linear-gradient(top, #62D7A4, #62D7A4);
+  background-image: -ms-linear-gradient(top, #62D7A4,#62D7A4);
+  background-image: -o-linear-gradient(top, ##62D7A4, #62D7A4);
+  background-image: linear-gradient(to bottom, #62D7A4,#62D7A4);
+  text-decoration: none;
+}
+.button-box{
+  padding-top:23px;
+  padding-left: 212px;
+}
+.inner-box{
+  padding-left: 36px;
+}
+.fas {
+    color: #62D7A4 !important;
+}

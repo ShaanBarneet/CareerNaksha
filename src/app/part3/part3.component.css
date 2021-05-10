@@ -1,0 +1,67 @@
+#Part3 {
+  padding-top: 46.98px;
+  background:url(../../assets/images/bgp3.jpg);
+  background-repeat: no-repeat;
+  background-size:1366px 750px;
+  background-position: right;
+}
+h1 {
+  padding-top: 46.98;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+.form {
+  background-color: white;
+  padding-left: 44.9px;
+  padding-right: 21.54px;
+  padding-top: 38.65px;
+  padding-bottom: 31.44px;
+  width: auto;
+}
+.formbox{
+  padding-top: 73.6px;
+  padding-bottom: 102.69px;
+}
+.btn1 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #62D7A4;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: #ffffff;
+  color: #62D7A4;
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+  text-decoration: none;
+}
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+input[type=email] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+#City{
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+}
+#Message{
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+}
