@@ -25,8 +25,12 @@ p{
   font-size: 18px;
 }
 .row{
-  padding-left: 128px;
-  padding-right: 128px;
+display: flex;
+justify-content: center;
+}
+
+.mainbox{
+  align-items: center;
 }
 
 .features-box1{
@@ -63,6 +67,7 @@ p{
   text-align: center;
   box-shadow: 0px 10px 30px rgba(153, 153, 153, 0.2);
 }
+
 .fas {
   padding-top: 54px;
     color: #62D7A4 !important;
